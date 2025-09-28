@@ -14,24 +14,24 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "your.email@example.com",
-      href: "mailto:your.email@example.com",
+      value: "borasarthak275@gmail.com",
+      href: "mailto:borasarthak275@gmail.com",
       color: "text-red-500",
       bgColor: "bg-red-500/20",
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/sarthakbora",
-      href: "https://github.com/sarthakbora",
+      value: "github.com/Dev-SarthakBora",
+      href: "https://github.com/Dev-SarthakBora",
       color: "text-gray-400",
       bgColor: "bg-gray-400/20",
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/sarthakbora",
-      href: "https://linkedin.com/in/sarthakbora",
+      value: "linkedin.com/in/sarthak-bora",
+      href: "https://linkedin.com/in/sarthak-bora",
       color: "text-blue-500",
       bgColor: "bg-blue-500/20",
     },
@@ -146,21 +146,27 @@ export function Contact() {
                       I'm always open to discussing new opportunities, sharing insights about data analytics, or
                       exploring potential collaborations.
                     </p>
-                    <Button size="lg" className="w-full animate-pulse-glow">
-                      <Mail className="w-4 h-4 mr-2" />
-                      Send me an email
+                    <Button size="lg" className="w-full animate-pulse-glow" asChild>
+                      <a href="mailto:borasarthak275@gmail.com">
+                        <Mail className="w-4 h-4 mr-2" />
+                        Send me an email
+                      </a>
                     </Button>
                   </CardContent>
                 </Card>
 
                 <div className="grid grid-cols-2 gap-4">
-                  <Button variant="outline" size="lg" className="h-16 bg-transparent">
-                    <Github className="w-5 h-5 mr-2" />
-                    GitHub
+                  <Button variant="outline" size="lg" className="h-16 bg-transparent" asChild>
+                    <a href="https://github.com/Dev-SarthakBora" target="_blank" rel="noopener noreferrer">
+                      <Github className="w-5 h-5 mr-2" />
+                      GitHub
+                    </a>
                   </Button>
-                  <Button variant="outline" size="lg" className="h-16 bg-transparent">
-                    <Linkedin className="w-5 h-5 mr-2" />
-                    LinkedIn
+                  <Button variant="outline" size="lg" className="h-16 bg-transparent" asChild>
+                    <a href="https://linkedin.com/in/sarthak-bora" target="_blank" rel="noopener noreferrer">
+                      <Linkedin className="w-5 h-5 mr-2" />
+                      LinkedIn
+                    </a>
                   </Button>
                 </div>
               </div>
