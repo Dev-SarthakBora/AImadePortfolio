@@ -1,33 +1,28 @@
-🌐 Portfolio – Sarthak Bora
-
-
-
-
 📖 Overview
 
-This repository contains the source for my personal portfolio website, generated with v0.app
- and deployed using Vercel
+This repository contains the code for my personal portfolio website, automatically generated with v0.app
+ and deployed via Vercel
 .
 
-The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, showcasing work in Python, SQL, and data visualization.
+The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, with a focus on Python, SQL, and data visualization.
 
 🔗 Live Portfolio
 
-🚀 Check out my portfolio here:
-👉 Live Portfolio Link
+✨ You can explore my live portfolio here:
+👉 View Portfolio
 
 👤 About Me
 
 Hi! I’m Sarthak Bora 👋
-I am an Aspiring Data Analyst passionate about using data to solve real-world problems. I focus on data cleaning, exploratory analysis, and visualization while sharpening my skills in:
+I am an Aspiring Data Analyst passionate about data, analytics, and visualization. I enjoy uncovering insights through data cleaning, exploratory analysis, and building interactive dashboards.
+
+Currently, I’m working with:
 
 Python (pandas, NumPy, matplotlib)
 
 SQL
 
-Data Analytics & Visualization
-
-Basic Frontend (HTML, CSS, JavaScript)
+Basic Frontend (HTML, CSS, JS)
 
 Deployment workflows with Vercel
 
@@ -41,12 +36,16 @@ Data Analytics: pandas, NumPy, matplotlib, SQL
 
 Deployment & CI/CD: Vercel + v0.app
 
+🚀 Deployment
+
+Live Portfolio: Click Here
+
+Repo synced with v0.app: Edit on v0
+
 🙌 Acknowledgements
 
 Thanks to Vercel
- for hosting and CI/CD.
+ for deployment & CI/CD.
 
 Built with v0.app
- for AI-powered website generation.
-
-✨ This portfolio will be continuously updated with new projects as I grow my skills in data analytics and development.
+ for AI-powered portfolio generation.
