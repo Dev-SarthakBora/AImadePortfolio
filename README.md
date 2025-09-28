@@ -1,30 +1,51 @@
-# Portfolio generation
+📖 Overview
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+This repository contains the code for my personal portfolio website, automatically generated with v0.app
+ and deployed via Vercel
+.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/CobGlymvQBc)
+The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, with a focus on Python, SQL, and data visualization.
 
-## Overview
+🔗 Live Portfolio
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+✨ You can explore my live portfolio here:
+👉 View Portfolio
 
-## Deployment
+👤 About Me
 
-Your project is live at:
+Hi! I’m Sarthak Bora 👋
+I am an Aspiring Data Analyst passionate about data, analytics, and visualization. I enjoy uncovering insights through data cleaning, exploratory analysis, and building interactive dashboards.
 
-**[https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation](https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation)**
+Currently, I’m working with:
 
-## Build your app
+Python (pandas, NumPy, matplotlib)
 
-Continue building your app on:
+SQL
 
-**[https://v0.app/chat/projects/CobGlymvQBc](https://v0.app/chat/projects/CobGlymvQBc)**
+Basic Frontend (HTML, CSS, JS)
 
-## How It Works
+Deployment workflows with Vercel
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Node.js, Python
+
+Data Analytics: pandas, NumPy, matplotlib, SQL
+
+Deployment & CI/CD: Vercel + v0.app
+
+🚀 Deployment
+
+Live Portfolio: Click Here
+
+Repo synced with v0.app: Edit on v0
+
+🙌 Acknowledgements
+
+Thanks to Vercel
+ for deployment & CI/CD.
+
+Built with v0.app
+ for AI-powered portfolio generation.
