@@ -8,25 +8,35 @@
 
 📖 Overview
 
-This repository hosts my personal portfolio, automatically generated and synced using v0.app
- and deployed with Vercel
+This repository contains the code for my personal portfolio website, automatically generated with v0.app
+ and deployed via Vercel
 .
 
-The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, showcasing the technologies I work with and the projects I’ve built to strengthen my data analytics foundation.
+The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, with a focus on Python, SQL, and data visualization.
 
-Any changes made on v0.app
- are automatically pushed here, keeping the repo and deployment always in sync.
+🔗 Live Portfolio
+
+✨ You can explore my live portfolio here:
+👉 View Portfolio
 
 👤 About Me
 
 Hi! I’m Sarthak Bora 👋
-I am an Aspiring Data Analyst passionate about working with data, analytics, and visualization to extract meaningful insights. Currently, I’m building projects with Python (pandas, NumPy, matplotlib), SQL, and data cleaning techniques, while also exploring CI/CD workflows with Vercel and basic web development for presenting projects.
+I am an Aspiring Data Analyst passionate about data, analytics, and visualization. I enjoy uncovering insights through data cleaning, exploratory analysis, and building interactive dashboards.
 
-I believe in learning by building, and my portfolio reflects my ongoing journey into data analytics, where I’m developing both technical and problem-solving skills.
+Currently, I’m working with:
+
+Python (pandas, NumPy, matplotlib)
+
+SQL
+
+Basic Frontend (HTML, CSS, JS)
+
+Deployment workflows with Vercel
 
 🛠️ Tech Stack
 
-Frontend: Basic HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js, Python
 
@@ -36,18 +46,14 @@ Deployment & CI/CD: Vercel + v0.app
 
 🚀 Deployment
 
-My portfolio is live here:
-👉 Live Portfolio on Vercel
+Live Portfolio: Click Here
 
-🏗️ Build & Customize
-
-Continue improving the app on v0:
-👉 Edit on v0.app
+Repo synced with v0.app: Edit on v0
 
 🙌 Acknowledgements
 
-Huge thanks to Vercel
- for seamless CI/CD and hosting.
+Thanks to Vercel
+ for deployment & CI/CD.
 
-Special mention to v0.app
- for enabling AI-powered website generation.ory
+Built with v0.app
+ for AI-powered portfolio generation.
