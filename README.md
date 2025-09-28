@@ -5,26 +5,48 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation)
 [![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/CobGlymvQBc)
 
-## Overview
+📖 Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This repository hosts my personal portfolio, automatically generated and synced using v0.app
+ and deployed with Vercel
+.
 
-## Deployment
+The portfolio highlights my skills, projects, and journey as an aspiring Data Analyst, showcasing the technologies I work with and the projects I’ve built to strengthen my data analytics foundation.
 
-Your project is live at:
+Any changes made on v0.app
+ are automatically pushed here, keeping the repo and deployment always in sync.
 
-**[https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation](https://vercel.com/dev-sarthakboras-projects/v0-portfolio-generation)**
+👤 About Me
 
-## Build your app
+Hi! I’m Sarthak Bora 👋
+I am an Aspiring Data Analyst passionate about working with data, analytics, and visualization to extract meaningful insights. Currently, I’m building projects with Python (pandas, NumPy, matplotlib), SQL, and data cleaning techniques, while also exploring CI/CD workflows with Vercel and basic web development for presenting projects.
 
-Continue building your app on:
+I believe in learning by building, and my portfolio reflects my ongoing journey into data analytics, where I’m developing both technical and problem-solving skills.
 
-**[https://v0.app/chat/projects/CobGlymvQBc](https://v0.app/chat/projects/CobGlymvQBc)**
+🛠️ Tech Stack
 
-## How It Works
+Frontend: Basic HTML, CSS, JavaScript
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Backend: Node.js, Python
+
+Data Analytics: pandas, NumPy, matplotlib, SQL
+
+Deployment & CI/CD: Vercel + v0.app
+
+🚀 Deployment
+
+My portfolio is live here:
+👉 Live Portfolio on Vercel
+
+🏗️ Build & Customize
+
+Continue improving the app on v0:
+👉 Edit on v0.app
+
+🙌 Acknowledgements
+
+Huge thanks to Vercel
+ for seamless CI/CD and hosting.
+
+Special mention to v0.app
+ for enabling AI-powered website generation.ory
