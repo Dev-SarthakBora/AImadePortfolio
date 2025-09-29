@@ -4,7 +4,7 @@
 
 ### *Transforming Data into Insights*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00D4AA?style=for-the-badge&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00D4AA?style=for-the-badge&logoColor=white)](https://sarthak-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Dev--SarthakBora-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-SarthakBora)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthak-bora)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borasarthak275@gmail.com)
@@ -17,7 +17,7 @@
 
 ## ✨ **Live Portfolio**
 
-🎯 **[👉 VIEW MY PORTFOLIO HERE 👈](https://your-portfolio-url.vercel.app)**
+🎯 **[👉 VIEW MY PORTFOLIO HERE 👈](https://sarthak-portfolio.vercel.app)**
 
 Experience the full interactive portfolio with smooth animations, glassmorphism effects, and a professional navy-teal color scheme.
 
@@ -105,7 +105,7 @@ npm run dev
 🤖 **Predictive Analytics Model** - Machine learning implementation  
 🌐 **Web Scraping Tool** - Python automation project  
 
-*[View all projects in my portfolio →](https://your-portfolio-url.vercel.app)*
+*[View all projects in my portfolio →](https://sarthak-portfolio.vercel.app)*
 
 ---
 
@@ -125,7 +125,7 @@ npm run dev
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4AA?style=for-the-badge)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D4AA?style=for-the-badge)](https://sarthak-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sarthak-bora)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Dev-SarthakBora)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:borasarthak275@gmail.com)
